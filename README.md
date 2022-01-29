@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dFLPp
 - 👀 I’m interested in programming, physics, chess and other things
-- 🌱 I’m currently learning javaScript to front-end, python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: JS for front-end && Python
 - 📫 How to reach me: twitter = https://twitter.com/someFLP
 
 <!---
