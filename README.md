@@ -1,4 +1,4 @@
-#Hi 👋
+# Hi 👋
 - I’m Felipe Castro, 19y/o
 - 👀 My hobbies are programming and learning new things
 - 🌱 I’m currently a undergraduate student in Electrical Engineering @Brazil
